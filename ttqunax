@@ -1,0 +1,15 @@
+ip-cidr, 63.251.124.0/24, direct
+ip-cidr, 205.164.56.0/24, direct
+ip-cidr, 69.46.75.0/24, direct
+ip-cidr, 50.117.27.0/24, direct
+host, appiersig.com, reject
+host, appier.net, reject
+host, adsappier.com, reject
+host, googleads.g.doubleclick.net, reject
+host, amazon-adsystem.com, reject
+host, smaato.net, reject
+host, pubmatic.com, reject
+host, criteo.com, reject
+host, tappx.com, reject
+host, ads.inmobi.com, reject
+host, tktn.be, proxy
